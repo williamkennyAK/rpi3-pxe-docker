@@ -16,7 +16,7 @@ then prepare system, and start the container
 
 edit `dnsmasq.conf` according to your network
 
-for Raspbian Lite:
+for Raspberry Pi OS Lite (armhf not arm64):
 
 ```
 ./setup.sh
